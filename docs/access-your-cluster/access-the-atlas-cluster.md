@@ -85,8 +85,7 @@ export const Highlight = ({children, color, link}) => (
 
 :::tip Choose Your Platform
 <br></br>
-<div className="compass-platforms"><Highlight color="#555555" link="https://downloads.mongodb.com/compass/mongodb-compass-latest-darwin-x64.dmg">Compass on MacOS</Highlight> <Highlight color="#00A4EF" link="https://downloads.mongodb.com/compass/mongodb-compass-1.36.1-win32-x64.exe">Compass on Windows</Highlight> <Highlight color="#E95420" link="https://downloads.mongodb.com/compass/mongodb-compass_1.36.1_amd64.deb">Compass on Ubuntu</Highlight></div>
-
+<div className="compass-platforms"><Highlight color="#555555" link="https://downloads.mongodb.com/compass/mongodb-compass-1.36.2-darwin-x64.dmg">Compass on MacOS</Highlight><Highlight color="#555555" link="https://downloads.mongodb.com/compass/mongodb-compass-1.36.2-darwin-arm64.dmg">Compass on MacOS (M1)</Highlight> <Highlight color="#00A4EF" link="https://downloads.mongodb.com/compass/mongodb-compass-1.36.2-win32-x64.exe">Compass on Windows</Highlight> <Highlight color="#E95420" link="https://downloads.mongodb.com/compass/mongodb-compass_1.36.2_amd64.deb">Compass on Ubuntu</Highlight></div>
 :::
 
 Go to the following [guide](https://www.mongodb.com/docs/compass/master/install/) to install your compass relevant binary on your working station OS.
