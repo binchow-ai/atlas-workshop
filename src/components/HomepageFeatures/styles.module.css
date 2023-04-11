@@ -1,0 +1,17 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 5rem 0;
+  width: 100%;
+}
+
+.featureImg {
+  height: 300px;
+  margin-bottom: 2.5rem;
+}
+
+.compass-platforms{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}

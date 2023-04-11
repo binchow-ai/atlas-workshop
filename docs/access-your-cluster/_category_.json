@@ -1,0 +1,8 @@
+{
+  "label": "Access Your Cluster - Excersize Two",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "10 min excersize to access and get to know your cluster access points. This section highlight options like 'Data Explorer', 'Compass' and 'MongoDB Shell'"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Get started with Atlas - Excersize One",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "10 min setup of the Atlas initial project and cluster."
+  }
+}

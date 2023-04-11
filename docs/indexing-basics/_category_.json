@@ -1,0 +1,8 @@
+{
+  "label": "Indexing and Explain Plans - Excersize Three",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "20 min excersize to analyze queries and build optimal indexes. "
+  }
+}
